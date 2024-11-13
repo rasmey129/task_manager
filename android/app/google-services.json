@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:45424064168:android:37ae2df7b03587dac4b49d",
         "android_client_info": {
-          "package_name": "com.example.app"
+          "package_name": "com.example.task_manager"
         }
       },
       "oauth_client": [],
